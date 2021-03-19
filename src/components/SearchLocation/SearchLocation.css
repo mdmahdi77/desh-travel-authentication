@@ -1,0 +1,16 @@
+.searchItem{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 100px;
+}
+.headerStyle{
+    color: crimson;
+}
+.headerStyle span{
+    color: gray;
+}

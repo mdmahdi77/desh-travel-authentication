@@ -1,0 +1,40 @@
+.navSection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1px 100px;
+    border-bottom: 2px solid lightgray;
+}
+.logo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: #0080ff;
+}
+.logo span{
+    color: #00FFFF;
+}
+.navList{
+    display: flex;
+}
+.navList li{
+    list-style: none;
+    margin: 0 20px;
+}
+.navList li a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.logIn{
+    background-image: linear-gradient(to right, #00FFFF, #0080ff);
+    padding: 5px 20px;
+    border-radius: 12px;
+}
+.userLogIn{
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
