@@ -11,10 +11,11 @@
     border-radius: 10px;
 }
 .form-container input[type="text"]{
-    padding: 20px 100px;
+    padding: 20px 10px;
     margin: 10px 0;
     border: none;
     border-radius: 10px;
+    width: 380px;
 }
 .form-container label{
     color: white;
